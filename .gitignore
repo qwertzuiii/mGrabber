@@ -3,3 +3,4 @@ export.json
 output/mGrabber.exe
 __pycache__/
 *.pyc
+builds
