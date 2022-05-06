@@ -1,0 +1,5 @@
+If the Player you saved has a new Skin and want to save it,
+it will replace the old skin.
+
+(Rename the Skin Files)
+

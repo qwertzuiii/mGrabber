@@ -4,3 +4,5 @@ output/mGrabber.exe
 __pycache__
 *.pyc
 builds
+*.exe
+GUI_VERSION/res/saved_skins/D4R100.png

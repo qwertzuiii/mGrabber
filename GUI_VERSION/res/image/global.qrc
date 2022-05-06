@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="skinload">
+    <file>skin_render.png</file>
+  </qresource>
+</RCC>
