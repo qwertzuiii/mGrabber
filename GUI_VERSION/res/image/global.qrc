@@ -1,5 +1,7 @@
 <RCC>
   <qresource prefix="skinload">
+    <file>skin_render_steve.png</file>
+    <file>skin_render_steve_nocolor.png</file>
     <file>skin_render.png</file>
   </qresource>
 </RCC>

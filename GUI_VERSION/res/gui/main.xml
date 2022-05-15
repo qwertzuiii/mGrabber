@@ -42,7 +42,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap resource="../image/global.qrc">:/skinload/skin_render.png</pixmap>
+     <pixmap resource="../image/global.qrc">:/skinload/skin_render_steve_nocolor.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>

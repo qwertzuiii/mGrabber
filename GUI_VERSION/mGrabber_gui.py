@@ -6,7 +6,7 @@ from res.modules import phasto as psto
 from res.image import resources
 from PyQt5 import QtTest
 sking = skingrabber()
-somedeb = True
+somedeb = False
 
 PATH_TO_CONFIGFILE = 'res/config.json'
 PATH_TO_RENDER = 'res/image/skin_render_new.png'

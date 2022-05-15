@@ -1,5 +1,5 @@
 {
-    "version": 0.2,
+    "version": "0.2.1",
     "ui": "res/gui/main.xml",
     "skin_output": "res/saved_skins",
     "icon": "res/favicon.ico",
