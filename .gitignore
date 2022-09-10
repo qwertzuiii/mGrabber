@@ -6,3 +6,4 @@ __pycache__
 builds
 *.exe
 GUI_VERSION/res/saved_skins/D4R100.png
+WEB_VERSION/
