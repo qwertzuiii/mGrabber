@@ -1,6 +1,8 @@
 {
-    "wintitle": "mGrabber | By dream4sy",
-    "version": 0.1,
-    "skin_output": "res/skins",
-    "logo": "res/ascii.logo"
+    "version": "0.2.1",
+    "ui": "res/gui/main.xml",
+    "skin_output": "res/saved_skins",
+    "icon": "res/favicon.ico",
+    "buttoncursor": false,
+    "clickableSkin": true
 }
