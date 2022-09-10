@@ -15,7 +15,7 @@ class os:
         system('cls')
     #def one_input():
         #return mv.getch()
-    class window:
+    #class window:
         #def title(TITLE_OF_WINDOW):
             #cty.windll.kernel32.SetConsoleTitleW(TITLE_OF_WINDOW)
 
