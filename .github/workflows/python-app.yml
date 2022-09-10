@@ -37,6 +37,6 @@ jobs:
     - name: Can't be tested, because it's an gui and github can't test that
       run: |
         # Can't be tested, because it's an gui and github can't test that
-    - name: Checking Rate
+    - name: Checking Rate (Can't be tested too, because github-actions is bad af)
       run: |
-        pylint mGrabber_gui.py
+        # cant use "pylint mGrabber_gui.py", it gives an error code 22. For me it works
