@@ -1,2 +1,0 @@
-There are your skins saved! Deleting Folder => Program Crashes!
-=> Folder must be exist or it crashes!
